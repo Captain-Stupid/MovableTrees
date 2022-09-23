@@ -19,6 +19,7 @@ Unzip all files into `Core Keeper\BepInEx\plugins\MovableTrees/` (Create folder 
 
 ## Credits
 [ReMod.Core](https://github.com/RequiDev/ReMod.Core) for the awesome ResourceManager code.
+
 Roupiks#8368 for the sprites
 
 ## Changelog
