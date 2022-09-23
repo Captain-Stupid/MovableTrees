@@ -17,6 +17,10 @@ Install BepInEx Pack from [here](https://core-keeper.thunderstore.io/package/Bep
 
 Unzip all files into `Core Keeper\BepInEx\plugins\MovableTrees/` (Create folder named `MovableTrees`)<br/>
 
+##Credits
+[ReMod.Core](https://github.com/RequiDev/ReMod.Core) for the awesome ResourceManager code.
+Roupiks#8368 for the sprites
+
 ## Changelog
 <details>
 <summary>Changelog</summary>
