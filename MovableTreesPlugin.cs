@@ -14,7 +14,7 @@ public class MovableTrees : BasePlugin
 
     public const string GUID = "com.CaptainStupid.StupidMod";
     public const string NAME = "StupidMod";
-    public const string VERSION = "1.0.0";
+    public const string VERSION = "1.0.3";
 
     public static Manager manager;
 

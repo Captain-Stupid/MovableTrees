@@ -26,6 +26,9 @@ Roupiks#8368 for the sprites
 <details>
 <summary>Changelog</summary>
 
+### 1.0.3
+- Updated sprite for Mold Tree.
+
 ### v1.0.0
 - Initial Release
 </details>
